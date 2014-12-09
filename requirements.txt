@@ -1,0 +1,12 @@
+# The order of packages is significant, because pip processes them in the order
+# of appearance. Changing the order has an impact on the overall integration
+# process, which may cause wedges in the gate later.
+
+pbr>=0.6,!=0.7,<1.0
+pandas>=0.13.1
+numpy>=1.8.1
+mediawiki-utilities>=0.3.0
+scikit-learn>=0.15
+pystan>=2.5.0.0,<3.0
+beautifulsoup4
+xmltodict

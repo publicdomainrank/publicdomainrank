@@ -1,0 +1,12 @@
+*~
+*#
+__pycache__
+*.tmp
+.#*
+*.pyc
+build
+
+# project-specific
+onlinebooks-spider/crawls
+Makefile
+config.ini

@@ -1,0 +1,17 @@
+[data]
+onlinebookspage-wikipedia-mapping = ./data/onlinebookspage-wikipedia-mapping.csv
+onlinebookspage = ~/data/public-domain-rank/onlinebookspage-20140516-authors.csv
+categories = ~/data/public-domain-rank/enwiki-20140402-categorylinks-pages-persons.csv
+pagecounts = ~/data/wikipedia-pagecounts-dataset/pagecounts-201209-to-201308-60-days-sorted-groupby-title.h5
+pagecounts_of_interest = ~/data/public-domain-rank/enwiki-20140402-pagecounts-of-interest.csv
+articles = ~/data/public-domain-rank/enwiki-20140402-pages-articles.xml.bz2
+redirects = ~/data/public-domain-rank/enwiki-20140402-ns0-redirects.csv
+titles = ~/data/public-domain-rank/enwiki-20140402-ns0-titles.csv
+topics-datastem = ~/data/public-domain-rank/enwiki-20140402-pages-articles-texts-stemmed-mindf200
+topics-fitstem = ~/data/public-domain-rank/topic-model/enwiki-20140402-pages-articles-texts-stemmed-mindf200-fit-K200
+imagelinks = ~/data/public-domain-rank/enwiki-20140402-imagelinks.csv
+langlinks = ~/data/public-domain-rank/enwiki-20140402-langlinks.csv
+texts-dir = ~/data/public-domain-rank/enwiki-20140402-pages-articles-texts
+pageid-title-timestamp-length = ~/data/public-domain-rank/enwiki-20140402-pageid-title-timestamp-length.csv
+history = ~/data/public-domain-rank/enwiki-20140402-stub-meta-history.xml.gz
+revision-metadata = ~/data/public-domain-rank/enwiki-20140402-revision-metadata.csv
